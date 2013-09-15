@@ -460,3 +460,10 @@ body .container-12 .grid-3 {
   bottom: 0;
   right: 0;
 }
+#views_slideshow_controls_text_previous_nota_principal-page_1 a,
+#views_slideshow_controls_text_next_nota_principal-page_1 a{
+  text-indent: -9999px;
+  display: block;
+  background: url(../images/nextButton.png) no-repeat;
+  cursor: pointer;
+}
