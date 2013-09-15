@@ -466,4 +466,6 @@ body .container-12 .grid-3 {
   display: block;
   background: url(../images/nextButton.png) no-repeat;
   cursor: pointer;
+  width: 25px;
+  height: 25px;
 }
