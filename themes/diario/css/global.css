@@ -449,3 +449,14 @@ body .container-12 .grid-3 {
   margin-left: 330px;
   text-align: left;
 }
+#views_slideshow_controls_text_pause_nota_principal-page_1{
+  display: none;
+}
+.view-nota-principal .skin-default{
+  position: relative;
+}
+.view-nota-principal .skin-default .views-slideshow-controls-bottom{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
