@@ -435,3 +435,17 @@ body .container-12 .grid-3 {
   position: absolute;
   z-index: 1;
 }
+
+/** New Stuff **/
+.view-nota-principal .field-name-field-image{
+  width: 320px;
+  height: 200px;
+  overflow: hidden;
+  float: left;
+}
+.view-nota-principal .field-name-title,
+.view-nota-principal .field-name-body,
+.view-nota-principal .field-name-field-int-date{
+  margin-left: 330px;
+  text-align: left;
+}
