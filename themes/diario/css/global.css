@@ -460,6 +460,14 @@ body .container-12 .grid-3 {
   bottom: 0;
   right: 0;
 }
+#views_slideshow_controls_text_previous_nota_principal-page_1,
+#views_slideshow_controls_text_next_nota_principal-page_1{
+  float: left;
+  margin-right: 5px;
+}
+#views_slideshow_controls_text_next_nota_principal-page_1{
+  margin-right: 0;
+}
 #views_slideshow_controls_text_previous_nota_principal-page_1 a,
 #views_slideshow_controls_text_next_nota_principal-page_1 a{
   text-indent: -9999px;
