@@ -459,6 +459,7 @@ body .container-12 .grid-3 {
   position: absolute;
   bottom: 0;
   right: 0;
+  z-index: 20;
 }
 #views_slideshow_controls_text_previous_nota_principal-page_1,
 #views_slideshow_controls_text_next_nota_principal-page_1{
@@ -476,4 +477,7 @@ body .container-12 .grid-3 {
   cursor: pointer;
   width: 25px;
   height: 25px;
+}
+#views_slideshow_controls_text_previous_nota_principal-page_1 a{
+  background: url(../images/prevButton.png) no-repeat;
 }
