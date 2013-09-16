@@ -54,6 +54,18 @@ body .container-12 .grid-9 {
   float: left;
   margin-right: 10px;
 }
+#zone-branding-wrapper{
+  height: 250px;
+  width: 960px;
+  margin: 0;
+}
+#zone-menu-wrapper{
+  display: none;
+}
+#zone-header-wrapper{
+  width: 661px;
+  height: 100px;
+}
 #block-system-main-menu{
   height: 63px;
   float: left;
@@ -342,17 +354,17 @@ body .container-12 .grid-3 {
 }
 
 /* ARticle*/
-.node .field-type-datestamp{
+#block-system-main .node .field-type-datestamp{
   color: #666;
   margin: 10px 0;
 }
-.node .field-name-field-image,
-.node .field-name-field-video{
+#block-system-main .node .field-name-field-image,
+#block-system-main .node .field-name-field-video{
   float: right;
   width: 400px;
   margin-left: 5px;
 }
-.node .field-name-body{
+#block-system-main .node .field-name-body{
   text-align: justify;
   font-size: 1em;
   line-height: 1.2em;
