@@ -59,12 +59,19 @@ body .container-12 .grid-9 {
   width: 960px;
   margin: 0;
 }
+#section-header{
+  position: relative;
+}
 #zone-menu-wrapper{
   display: none;
 }
 #zone-header-wrapper{
   width: 661px;
   height: 100px;
+  overflow: hidden;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 #block-system-main-menu{
   height: 63px;
@@ -426,14 +433,15 @@ body .container-12 .grid-3 {
 .buttons.social ul li .more a:hover{
   background: #333;
 }
-
+#region-header-first,
+#zone-header{
+  margin: 0;
+}
 #block-views-banners-block .view-content{
-  position: relative;
-  height: 100px;
+  
 }
 #block-views-banners-block .view-content .views-row{
-  position: absolute;
-  right: 0;
+  
 }
 .logo-img{
   padding-top: 19px;
