@@ -228,12 +228,14 @@ body .container-12 .grid-9 {
 .block-views-videos-block h2.title{
   margin: 0;
 }
-#block-views-videos-block-1 h2.title a, 
+#block-views-videos-block-1 h2.title a,
+.view-nota-principal h2.title a, 
 .block-views-videos-block h2.title a{
   color: #333;
   text-decoration: none;
 }
-#block-views-videos-block-1 h2.title a:hover  , 
+#block-views-videos-block-1 h2.title a:hover, 
+.view-nota-principal h2.title a:hover, 
 .block-views-videos-block h2.title a:hover{
   text-decoration: underline;
 }
