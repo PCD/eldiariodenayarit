@@ -507,3 +507,6 @@ body .container-12 .grid-3 {
 #views_slideshow_controls_text_previous_nota_principal-page_1 a{
   background: url(../images/prevButton.png) no-repeat;
 }
+#block-views-ultimas-noticias-block{
+  margin-top: 20px;
+}
