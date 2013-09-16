@@ -364,17 +364,17 @@ body .container-12 .grid-3 {
 }
 
 /* ARticle*/
-#block-system-main .node .field-type-datestamp{
+.page-node #block-system-main .node .field-type-datestamp{
   color: #666;
   margin: 10px 0;
 }
-#block-system-main .node .field-name-field-image,
-#block-system-main .node .field-name-field-video{
+.page-node #block-system-main .node .field-name-field-image,
+.page-node #block-system-main .node .field-name-field-video{
   float: right;
   width: 400px;
   margin-left: 5px;
 }
-#block-system-main .node .field-name-body{
+.page-node #block-system-main .node .field-name-body{
   text-align: justify;
   font-size: 1em;
   line-height: 1.2em;
