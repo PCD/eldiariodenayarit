@@ -510,3 +510,12 @@ body .container-12 .grid-3 {
 #block-views-ultimas-noticias-block{
   margin-top: 20px;
 }
+
+/** Teasers **/
+.node-teaser .group-left{
+  width: 178px;
+  margin-right: 10px;
+}
+.node-teaser .group-right{
+  width: 432px;
+}
