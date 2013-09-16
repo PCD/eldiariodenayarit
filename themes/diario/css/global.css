@@ -519,3 +519,31 @@ body .container-12 .grid-3 {
 .node-teaser .group-right{
   width: 432px;
 }
+.node-teaser .group-right h3{
+  margin-bottom: 10px;
+}
+.node-teaser .group-right h3 a{
+  color: #333;
+  font-size: 16px;
+  line-height: 18px;
+}
+.node-teaser .group-right .field-name-field-int-date{
+  margin-bottom: 10px;
+}
+.node-teaser .group-right .field-name-field-int-date .field-items{
+  display: inline-block;
+  padding: 1px 9px 3px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  font-weight: bold;
+  color: white;
+  background: #0080C0;
+}
+.node-teaser .group-right .field-name-body{
+  font-size: 12px;
+  line-height: 14px;
+}
+.node-teaser{
+  margin-bottom: 40px;
+}
