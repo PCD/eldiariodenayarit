@@ -73,8 +73,8 @@ body .container-12 .grid-9 {
   height: 100px;
   overflow: hidden;
   position: absolute;
-  bottom: 0;
-  right: 0;
+  bottom: 30px;
+  right: 10px;
 }
 #block-system-main-menu{
   height: 63px;
